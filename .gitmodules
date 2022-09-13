@@ -1,3 +1,6 @@
 [submodule "themes/researcher"]
 	path = themes/researcher
 	url = https://github.com/ojroques/hugo-researcher.git
+[submodule "zlin888.github.io"]
+	path = zlin888.github.io
+	url = https://github.com/zlin888/zlin888.github.io
